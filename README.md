@@ -7,18 +7,20 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+In this program, I define the rectangle and surface functions within the provided modules in main.py. In doing so, the concept of composition was employed.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 2
 
-Grace days remaining: < # >/5
+Grace days remaining: 1/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+To my knowledge, all parts of the lab were completed. 
 
 ## REFERENCES:
- < List any outside resources used >
+Aside from the lab description doc and python library, I used one source regarding the use of strings within the context of a lab like this. 
+
+https://realpython.com/lessons/how-and-when-use-str/
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None 
